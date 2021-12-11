@@ -11,8 +11,8 @@ Servidor de prueba. Para el desarrollo de la HU 5 con la herramienta My Json Ser
 - Edison Alonso Escobar Posada
 - Alejandro Restrepo Ángel
 
-### Link de Repositorio Aplicación
-https://github.com/Virtual-Android/A-Donde-Ir
+### Link de la Aplicación
+[Repositorio APP](https://github.com/Virtual-Android/A-Donde-Ir)
 
 ### Link de TRELLO
 [Tablero A donde ir](https://trello.com/b/p1tNK1YJ/a-d%C3%B3nde-ir)
